@@ -1,5 +1,5 @@
 # Useful Git Scripts
-You can use these basic scripts to automate your git processes. For example, I only type gcompush to add and commit all the changes, and then push the them to my github repository. 
+You can use these basic scripts to automate your git processes. For example, I can type gcompush to add and commit all the changes I've made, and then push them to my github repository. 
 
 # Instructions (Mac)
 1. Open terminal and type the following command
